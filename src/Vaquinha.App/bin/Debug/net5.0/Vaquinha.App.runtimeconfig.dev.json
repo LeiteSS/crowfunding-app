@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ssl/.dotnet/store/|arch|/|tfm|",
+      "/home/ssl/.nuget/packages"
+    ]
+  }
+}
